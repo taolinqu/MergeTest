@@ -1,0 +1,3 @@
+[submodule "HelloWorldMvcWeb"]
+	path = HelloWorldMvcWeb
+	url = https://github.com/tlin-fei/HelloWorldMvcWeb.git
